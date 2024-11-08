@@ -1,5 +1,7 @@
 A minimal single-file PHP wiki using simple syntax, responsive design, password protection, no database/dependency. Based on WikWiki.
 
+**This is no longer maintained and for archive only.**
+
 Default password ($P) is admin, but change it using https://bcrypt-generator.com/
 
 **Syntax:**
