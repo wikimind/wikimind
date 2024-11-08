@@ -2,7 +2,9 @@ A minimal single-file PHP wiki using simple syntax, responsive design, password 
 
 **This is no longer maintained and for archive only.**
 
-Default password ($P) is admin, but change it using https://bcrypt-generator.com/
+**Steps**
+1. Download index.php
+2. Change password ($P) using https://bcrypt-generator.com/
 
 **Syntax:**
 1. Title: new line with 1 to 6 #
